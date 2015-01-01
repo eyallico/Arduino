@@ -4,7 +4,7 @@ Antes que nada, quisiera compartir con ustedes cierta frase que me ha estado aco
 
 Dicho esto, bienvenidos a esta sección del entrenamiento, en la que nos enfocaremos en la electrónica. Así que daremos un vistazo realmente rápido a la evolución que ha tenido esta rama.
 
-[Enlace a esa cabecera](#cabecera1)
+
 
 
 #####Breve (realmente breve) resumen de la historia de la electrónica  
@@ -39,7 +39,6 @@ Puesto que un amperio es una unidad bastante grande de corriente, lo normal es t
 
 
 
-### Esto es una cabecera con un Id {#cabecera1}
 
 
 
