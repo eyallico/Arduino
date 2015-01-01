@@ -6,9 +6,11 @@ Dicho esto, bienvenidos a esta sección del entrenamiento, en la que nos enfocar
 
 
 
-
+####Contenido
 #####Breve (realmente breve) resumen de la historia de la electrónica  
 #####Conceptos básicos
+#####Arduino (introducción)
+
 
 
 
@@ -35,7 +37,15 @@ Sin embargo, la cantidad de agua que circula depende de la tubería. Mientras m�
 Es hora de ponerle unidades. La **diferencia de potencial** (diferencia de nivel) se mide en **voltios (V)**; la **intensidad de corriente** (flujo de agua), en **amperios (A)** y la **resistencia** (el ancho de la tubería), en **ohmios (Ω)**.   
 La relación entre las variables anteriormente mencionadas es descrita por la famosa ley de Ohm:
 
+> Voltaje = Corriente x Resistencia
+
+>V = I X R
+
 Puesto que un amperio es una unidad bastante grande de corriente, lo normal es trabajar con el **miliamperio (mA)**
+
+![Sin titulo](Imagenes/Captura.JPG)
+
+Siguiente concepto, la caída de voltaje. Esta ocurre
 
 
 
