@@ -30,11 +30,11 @@ El voltaje, o diferencia de potencial, puede ser asimilado como la diferencia de
 
 Si no hay diferencia de nivel, no puede haber flujo. Lo mismo ocurre con la corriente. Si no hay diferencia de potencial, no hay corriente. Sin embargo, hay otro requisito, y es que el flujo sea permitido por las conexiones entre los tanques. Es decir, mientras nadie le permita el paso, a pesar de tener voltaje, la corriente será 0.
 
-![Sin titulo](Imagenes/Tanques)
+![Sin titulo](Imagenes/Tanques.JPG)
 
 Ahora bien, contamos con una diferencia de potencial estable. Para que esto ocurra, usamos una fuente de voltaje, que puede ser asemejada a una bomba de agua que mantiene la diferencia de nivel, permitiendo un flujo constante por diferencia de potencial.
 
-![Sin titulo](Imagenes/Tanques2)
+![Sin titulo](Imagenes/Tanques2.JPG)
 
 Sin embargo, la cantidad de agua que circula depende de la tubería. Mientras más angosta sea, menos agua podrá circular. Esto se asemeja a las resistencias, que limitan el flujo de la corriente.
 
@@ -49,7 +49,7 @@ Puesto que un amperio es una unidad bastante grande de corriente, lo normal es t
 
 Realizaremos el cálculo correspondiente para el siguiente circuito:
 
-![Sin titulo](Imagenes/Circuito1)
+![Sin titulo](Imagenes/Circuito.JPG)
 
 
 
