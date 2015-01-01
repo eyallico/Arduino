@@ -9,10 +9,9 @@ Dicho esto, bienvenidos a esta sección del entrenamiento, en la que nos enfocar
 ####Contenido
 #####Breve (realmente breve) resumen de la historia de la electrónica  
 #####Conceptos básicos
-#####Arduino (introducción)
+#####Arduino (introducción)    
 
-
-
+----------
 
 ***Érase una vez***
 
@@ -51,6 +50,7 @@ Realizaremos el cálculo correspondiente para el siguiente circuito:
 
 ![Sin titulo](Imagenes/Circuito.JPG)
 
+Puesto que tenemos como datos el voltaje (5V) y la resistencia (1 KΩ), calcularemos la corriente, mediante la ley de ohm. Así de simple, obtenemos la respuesta: **5 mA** (o también 0.005 A, aplicar conversion de unidades, 1A = 1000 mA).
 
 
 
