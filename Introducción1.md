@@ -52,9 +52,16 @@ Realizaremos el cálculo correspondiente para el siguiente circuito:
 
 Puesto que tenemos como datos el voltaje (5V) y la resistencia (1 KΩ), calcularemos la corriente, mediante la ley de ohm. Así de simple, obtenemos la respuesta: **5 mA** (o también 0.005 A, aplicar conversion de unidades, 1A = 1000 mA).
 
+Siguiente concepto importante, la caída de voltaje. Esta ocurre cuando dos o más componentes están en serie, conectados a la misma fuente de voltaje. Se sigue aplicando la ley de Ohm, pero con una consideración, en este caso: 
 
+> La resistencia equivalente de "n" resistencias en serie es igual a la suma de dichas resistencias
 
+![Sin titulo](Imagenes/ResSeri.JPG)
 
+![Sin titulo](Imagenes/ResSeriFor.JPG)
 
+> La resistencia equivalente de "n" resistencias en paralelo es igual a la inversa de la suma de sus inversas"
 
+![Sin titulo](Imagenes/ResPara.JPG)
+![Sin titulo](Imagenes/ResParaFor.JPG)
 
