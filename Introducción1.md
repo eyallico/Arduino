@@ -23,45 +23,27 @@ Si bien la intención de este entrenamiento no es desarrollar cosas con tal magn
 
 ***Empecemos entonces***
 
-Primero daremos una breve explicación de los conceptos básicos necesarios.   
+Si no tienes ni idea de qué es un miliamperio, y deseas averiguarlo, te recomiendo que leas un poco de la teoría **[aquí](https://github.com/eyallico/Arduino/blob/master/Teoria.md
+)** 
 
-El voltaje, o diferencia de potencial, puede ser asimilado como la diferencia de nivel entre dos tanques conectados.
+Si quieres pasar directo a la acción (aunque un repaso nunca está de más) sigue leyendo. Empezaremos con una breve introducción a las herramientas que utilizaremos:
 
-Si no hay diferencia de nivel, no puede haber flujo. Lo mismo ocurre con la corriente. Si no hay diferencia de potencial, no hay corriente. Sin embargo, hay otro requisito, y es que el flujo sea permitido por las conexiones entre los tanques. Es decir, mientras nadie le permita el paso, a pesar de tener voltaje, la corriente será 0.
+Arduino es una plataforma de hardware y software de fácil manejo. A lo largo del entrenamiento trabajaremos con el Arduino UNO, cuyas características más relevantes para nuestro caso son:
 
-![Sin titulo](Imagenes/Tanques.JPG)
+- 13 salidas/entradas configurables
+- 6 entradas analógicas.
 
-Ahora bien, contamos con una diferencia de potencial estable. Para que esto ocurra, usamos una fuente de voltaje, que puede ser asemejada a una bomba de agua que mantiene la diferencia de nivel, permitiendo un flujo constante por diferencia de potencial.
+Si quieres saber la diferencia entre digital y analógico, revisa [por acá](https://github.com/eyallico/Arduino/blob/master/DigitalVsAnalogico.md
+)
 
-![Sin titulo](Imagenes/Tanques2.JPG)
 
-Sin embargo, la cantidad de agua que circula depende de la tubería. Mientras más angosta sea, menos agua podrá circular. Esto se asemeja a las resistencias, que limitan el flujo de la corriente.
 
-Es hora de ponerle unidades. La **diferencia de potencial** (diferencia de nivel) se mide en **voltios (V)**; la **intensidad de corriente** (flujo de agua), en **amperios (A)** y la **resistencia** (el ancho de la tubería), en **ohmios (Ω)**.   
-La relación entre las variables anteriormente mencionadas es descrita por la famosa ley de Ohm:
 
-> Voltaje = Corriente x Resistencia
 
->V = I X R
 
-Puesto que un amperio es una unidad bastante grande de corriente, lo normal es trabajar con el **miliamperio (mA)**
 
-Realizaremos el cálculo correspondiente para el siguiente circuito:
 
-![Sin titulo](Imagenes/Circuito1.JPG)
 
-Puesto que tenemos como datos el voltaje (5V) y la resistencia (1 KΩ), calcularemos la corriente, mediante la ley de ohm. Así de simple, obtenemos la respuesta: **5 mA** (o también 0.005 A, aplicar conversion de unidades, 1A = 1000 mA).
 
-Siguiente concepto importante, la caída de voltaje. Esta ocurre cuando dos o más componentes están en serie, conectados a la misma fuente de voltaje. Se sigue aplicando la ley de Ohm, pero con una consideración, en este caso: 
 
-> La resistencia equivalente de "n" resistencias en serie es igual a la suma de dichas resistencias
-
-![Sin titulo](Imagenes/ResSeri.JPG)
-
-![Sin titulo](Imagenes/ResSeriFor.JPG)
-
-> La resistencia equivalente de "n" resistencias en paralelo es igual a la inversa de la suma de sus inversas"
-
-![Sin titulo](Imagenes/ResPara.JPG)
-![Sin titulo](Imagenes/ResParaFor.JPG)
 
