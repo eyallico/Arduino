@@ -9,6 +9,7 @@ Ambos casos se podrían ilustrar con una escalera. Mientras que a la lectura dig
 Pasemos al hardware entonces. El arduino tiene 13 pines digitales, pero puesto que los dos primeros son utilizados para la comunicación serial, normalmente no se usan, así que los pines digitales 0 y 1 no serán usados de momento.
 Estos pines pueden ser configurados como entradas, o como salidas.
 
-Luego están los pines analógicos, del A0 al A5. Estos sólo pueden ser usados como entradas.
-
 ![Sin titulo](Imagenes/Arduino.JPG)
+
+Luego están los pines analógicos, del A0 al A5. Estos sólo pueden ser usados como entradas.
+Por otro lado, tenemos una salida de 5V, una salida de 3.3V, tres conexiones a 0V o GND (tierra). 
